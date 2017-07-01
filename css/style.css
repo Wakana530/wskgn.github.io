@@ -438,7 +438,7 @@ textarea{
     font-size: 77%;
 }
 #page-top a {
-    background: #666;
+    background: #808F89;
     text-decoration: none;
     color: #fff;
     width: 100px;
@@ -554,6 +554,10 @@ textarea{
 
 	.page5-box2{
 		padding-top: 20px;
+	}
+
+	#page-top a{
+		width: 80px;
 	}
 
 	/*.page5-box2 i{
