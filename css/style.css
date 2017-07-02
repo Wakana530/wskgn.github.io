@@ -520,7 +520,7 @@ textarea{
 		width: 80%;
 		position: absolute;
 		top: 25%;
-		left: 10%;
+		left: 8%;
 	}
 
 	.page1-text1{
@@ -530,6 +530,9 @@ textarea{
 
 	#page1-container{
 		position: relative;
+		display: flex;
+		overflow-x: scroll;
+
 	}
 
 	.page2-container{
