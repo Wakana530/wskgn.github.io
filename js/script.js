@@ -6,7 +6,7 @@ $("#page1-images").skippr({
 	transition:'fade',
 	speed: 1000,
 	easing: 'easeOutQuart',
-	navType:'block',
+	navType:'bubble',
 	childrenElementType: 'div',
 	arrows: true,
 	autoPlay: false,

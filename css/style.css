@@ -530,8 +530,8 @@ textarea{
 
 	#page1-container{
 		position: relative;
-		display: flex;
-		overflow-x: scroll;
+/*		display: flex;
+		overflow-x: scroll;*/
 
 	}
 
