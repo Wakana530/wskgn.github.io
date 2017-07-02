@@ -59,6 +59,40 @@ nav{
 	height: 500px;
 }
 
+.page1-text-box{
+	width:100%;
+	/*padding-top:200px;*/
+	margin:0 auto;
+	position: absolute;
+	top: 40%;
+	left: 0;
+	display:block;
+	z-index:30;
+	
+}
+
+.page1-text1{
+	text-align: center;
+	font-size:120px;
+	line-height: 120px;
+	margin: 0;
+	/*padding-top: 30px;*/
+	color: white;
+}
+
+.page1-text1{
+	font-family: 'Kaushan Script', cursive;
+}
+
+/*.page1-text2{
+	text-align: center;
+	font-size:15px;
+	line-height: 35px;
+	margin:0;
+	color:black;
+	
+}*/
+
 .page2{
 	width: 100%;
 }
@@ -480,6 +514,22 @@ textarea{
 		padding-top: 10px;
 		margin-right: 20px;
 
+	}
+
+	.page1-text-box{
+		width: 80%;
+		position: absolute;
+		top: 25%;
+		left: 10%;
+	}
+
+	.page1-text1{
+		font-size: 90px;
+		line-height: 90px;
+	}
+
+	#page1-container{
+		position: relative;
 	}
 
 	.page2-container{
